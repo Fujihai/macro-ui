@@ -1,0 +1,6 @@
+*.html text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+src/**/*.css text eol=lf
+src/**/*.less text eol=lf
+src/**/*.scss text eol=lf
