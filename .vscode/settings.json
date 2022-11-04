@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "stylelint.enable": true,
+  "stylelint.validate": ["css", "scss"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true, // 开启自动修复
+    "source.fixAll.stylelint": true // 开启stylelint自动修复
+  }
+}
